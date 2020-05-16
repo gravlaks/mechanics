@@ -45,7 +45,7 @@ def getPos(q):
     return (x_pos, y_pos)
 
 theta_init = np.pi/2
-theta_dot_init = 0
+theta_dot_init = 2
 y_init = 4
 y_dot_init = 3
 N = 100
