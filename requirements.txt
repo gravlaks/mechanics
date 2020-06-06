@@ -2,5 +2,4 @@ matplotlib
 numpy
 scipy
 Cython
-git+https://github.com/modelon-community/Assimulo@Assimulo-3.0
 operator
